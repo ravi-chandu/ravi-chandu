@@ -1,3 +1,7 @@
+
+![image](https://user-images.githubusercontent.com/92777166/138326398-642c21b1-218b-44b4-bbd9-614876a6790c.png)
+
+
 - 👋 Hi, I’m @ravi-chandu
 - 👀 I’m interested in Data Analysis, ML, AI & lots of cool stuff
 - 🌱 I’m currently learning Data Analysis - Power BI, Power Apps, Python
