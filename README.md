@@ -12,3 +12,6 @@
 ravi-chandu/ravi-chandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+#Snake style
+![snake gif](https://github.com/Ravi-chandu/Ravi chandu/blob/output/github-contribution-grid-snake.gif)
