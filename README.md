@@ -1,10 +1,9 @@
 
-![Data-Website-Analytics gif](https://user-images.githubusercontent.com/92777166/138327029-68ab568c-0f64-4db6-ba05-71db1927ee0a.gif)
 
 
 - 👋 Hi, I’m @ravi-chandu
 - 👀 I’m interested in Data Analysis, ML, AI & lots of cool stuff
-- 🌱 I’m currently learning Data Analysis - Power BI, Power Apps, Python
+- 🌱 I’m currently learning Data Analysis - Power BI, SQL, Power Apps, Python
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/ravichandu1/
 
