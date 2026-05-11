@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=Ravi%20Chandu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Privacy-First%20Data%20Builder%20%7C%20Fabric%20%7C%20Power%20BI%20%7C%20AI&descAlignY=58" alt="Ravi Chandu banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=Ravi%20Chandu%20Edru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Privacy-First%20Data%20Builder%20%7C%20Fabric%20%7C%20Power%20BI%20%7C%20AI&descAlignY=58" alt="Ravi Chandu banner" />
 </p>
 
 <p align="center">
