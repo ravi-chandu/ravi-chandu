@@ -1,6 +1,6 @@
 # Ravi Chandu Edru
 
-Fabric | Power BI | AI | Privacy-first builder
+Fabric | Power BI | AI 
 
 Portfolio: https://ravi-chandu.github.io/
 LinkedIn: https://www.linkedin.com/in/ravichanduedru/
