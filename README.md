@@ -66,11 +66,14 @@ Browser game project focused on architecture discipline, clean release flow, and
 
 
 
-## Proof Panel
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-chandu&show_icons=true&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-chandu&hide_border=true&ring=2563eb&fire=f59e0b&currStreakLabel=0f172a&sideLabels=334155&dates=64748b&background=ffffff" alt="GitHub streak" />
 </p>
+
+
+
+
 
 
 
@@ -82,8 +85,16 @@ Browser game project focused on architecture discipline, clean release flow, and
 
 
 
+
+
+
+
 ## Collaboration
 I help teams that need results, not dashboard theater.
+
+
+
+
 
 
 
@@ -96,11 +107,19 @@ I help teams that need results, not dashboard theater.
 
 
 
+
+
+
+
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/ravichanduedru/
 - Portfolio: https://ravi-chandu.github.io/
 - Upwork: https://upwork.com/freelancers/ravichandu
 - Contra: https://contra.com/ravi_chandu/
+
+
+
+
 
 
 
@@ -116,6 +135,14 @@ I help teams that need results, not dashboard theater.
 
 
 
+
+
+
+
+
+
+
+
 ## Game Zone
 ### MindMatch Challenge
 One of my side-hustle games from the MindMatch project.
@@ -123,6 +150,21 @@ One of my side-hustle games from the MindMatch project.
 
 
 
+
+
+
+
 - Repository: https://github.com/ravi-chandu/MindMatch4
 - Built for: quick memory rounds, pattern matching, and lightweight browser gameplay
 - Current stage: active iteration with UX and scoring improvements
+
+
+
+
+## Current Projects
+- OnDevicePDF (live): https://www.ondevicepdf.com/
+- MindMatch4 (live): https://ravi-chandu.github.io/MindMatch4/
+
+### Under Production
+- Group Alarm (ready to live)
+- One more project in production (details dropping soon)
