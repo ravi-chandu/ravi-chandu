@@ -1,104 +1,61 @@
-# 👋 Hi, I'm Ravi Chandu
+# Ravi Chandu
+### Privacy-First Data Builder for Power BI + Microsoft Fabric + Real-Time Intelligence
 
-**Freelance Power BI Developer | Microsoft Fabric Consultant | Real-Time Intelligence Specialist**
+I build data products that are fast, explainable, and production-ready.
 
-I'm passionate about transforming complex business data into actionable insights through scalable, interactive, and performance-optimized reporting solutions.
-
----
-
-## 🎯 About Me
-
-With hands-on expertise in **Power BI**, **Real-Time Intelligence**, **data modeling**, and **advanced analytics**, I help organizations design complete data ecosystems using **Microsoft Fabric**—integrating real-time data pipelines, analytics engineering, and business intelligence into unified, enterprise-ready solutions.
-
-My focus goes beyond dashboards. I build solutions that drive smarter decision-making and measurable business impact.
+### Signal
+- 725+ contributions in the last year
+- Active contributor to microsoft/Ontology-Playground
+- Shipping public and private products across BI, real-time analytics, and AI assistants
 
 ---
 
-## 💡 What I Specialize In
-
-- 📊 **Power BI Development** — Advanced modeling, DAX optimization, and performance tuning
-- 🚀 **Real-Time Intelligence** — Event-driven analytics and streaming data pipelines in Microsoft Fabric
-- 📈 **Data Modeling** — Dimensional design, star schemas, and semantic layer architecture
-- 🔥 **KQL & Analytics** — Kusto Query Language for real-time data exploration
-- 💬 **Data Storytelling** — Transforming insights into compelling visual narratives
-- 🤖 **AI-Powered Solutions** — Building intelligent data assistants and automation within BI ecosystems
+## What I Build
+- Real-time analytics systems with Fabric Eventhouse, KQL, and Activator workflows
+- Semantic models and Power BI experiences tuned for performance at scale
+- Privacy-first web apps where sensitive data stays on-device
+- Applied AI features for practical workflows, not demos
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
+### OnDevicePDF
+Private-by-design PDF toolkit running fully in the browser. No uploads. No server-side file storage.
 
-**Data & BI:**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F4A460?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### VIBE-Visual
+Open-source Power BI custom visual for animated SVG charts with cross-filtering support.
 
-**Real-Time & Analytics:**
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square)
+### Ontology-Playground Contributions
+UX and graph exploration enhancements for ontology learning and Fabric IQ workflows.
 
-**Development:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### MindMatch4
+Browser-based strategy game hub with testable AI behaviors and clean release workflow.
 
 ---
 
-## 🌟 Featured Projects
-
-### [VIBE-Visual](https://github.com/ravi-chandu/VIBE-Visual)
-Modern, open-source **Power BI custom visual** for creating beautiful, interactive SVG bar charts with customizable colors and animations. Built with TypeScript and optimized for enterprise dashboards.
-
-### [ravi-chandu.github.io](https://github.com/ravi-chandu/ravi-chandu.github.io)
-Personal portfolio showcasing Power BI analytics projects and data visualization work.
-
-### [SQL-Joins-PowerBI](https://github.com/ravi-chandu/SQL-Joins-PowerBI)
-Educational content explaining SQL JOINs with practical Power BI examples—helping professionals master data relationships.
+## Current Focus
+- Fabric Real-Time Intelligence architecture patterns
+- KQL optimization for high-volume event streams
+- Agentic workflows grounded on semantic models and ontology context
 
 ---
 
-## 📚 Currently Learning & Exploring
+## Work With Me
+I help teams design data systems that move from ingestion to action.
 
-- Deeper patterns in Real-Time Intelligence within Microsoft Fabric
-- Advanced KQL optimization for high-volume event data
-- Building AI-powered data assistants with Copilot integration
-- Performance tuning strategies for large-scale Power BI models
+- Microsoft Fabric consulting
+- Power BI architecture and optimization
+- Real-time dashboarding and alerting
+- Applied AI in analytics workflows
 
----
-
-## 🤝 Let's Collaborate
-
-I'm actively looking to:
-- ✅ Help organizations build robust Power BI and Microsoft Fabric solutions
-- ✅ Share knowledge through consulting and mentorship
-- ✅ Contribute to open-source BI and data projects
-- ✅ Partner on innovative data storytelling initiatives
+### Contact
+- LinkedIn: https://www.linkedin.com/in/ravichanduedru/
+- Portfolio: https://ravi-chandu.github.io/
+- Upwork: https://upwork.com/freelancers/ravichandu
+- Contra: https://contra.com/ravi_chandu/
 
 ---
 
-## 📞 Let's Connect
-
-I share insights on **LinkedIn**, **YouTube**, and GitHub about data strategy, Power BI best practices, and why the "how" and "why" matter as much as the "what."
-
-- 💼 **LinkedIn:** [linkedin.com/in/ravichanduedru](https://www.linkedin.com/in/ravichanduedru/)
-- 🌐 **Portfolio:** [ravi-chandu.github.io](https://ravi-chandu.github.io/)
-- 💻 **Freelance:** [upwork.com/freelancers/ravichandu](https://upwork.com/freelancers/ravichandu)
-- 🎯 **Contract Work:** [contra.com/ravi_chandu](https://contra.com/ravi_chandu/)
-
----
-
-## 🎯 My Mission
-
-**Turn data into clarity. Turn clarity into action. Turn action into growth.**
-
----
-
-## 📊 GitHub Activity
-
-![Contribution Graph](https://github.com/Ravi-chandu/Ravi-chandu/blob/output/github-contribution-grid-snake.gif)
-
----
-
-*Open to freelance projects, consulting engagements, and collaborations. Let's build something impactful together!*
+## Creative Note
+A small bird icon in my projects represents the same principle I build for:
+lightweight, fast, and always in motion.
